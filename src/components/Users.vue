@@ -81,6 +81,7 @@ export default {
     border-radius: 100px;
     width: 150px;
     height: 150px;
+    transition: 0.3s;
 }
 .userImg img:hover{
     -ms-transform: scale(1.1); /* IE 9 */
@@ -95,6 +96,7 @@ ul{
     padding: 50px;
     text-align: center;
     padding-right: 80px;
+    transition: 0.5s
 }
 li{
     margin-top:5px;
